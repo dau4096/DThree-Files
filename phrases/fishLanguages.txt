@@ -8,3 +8,4 @@ Sakana
 Riba
 Kalastaa
 Poisson
+Kala
