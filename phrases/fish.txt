@@ -32,10 +32,6 @@ Pollock
 Capelin
 Herring
 Mackerel
-Scallops
-Oyster
-Clams
-Seal
 Flounder
 Smelt
 Great White
@@ -61,5 +57,3 @@ Kala
 Pickerel
 Pike
 Bluefin
-shabbles
-shabbr
