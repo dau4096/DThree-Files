@@ -1,6 +1,7 @@
 # DThree
-## _Text files that DThree can draw from to randomly say_
-Using ¬ marks a newline character.
-Adding a command to cmds.txt will add a new command, and an associated text file with the same name will be selected from randomly.
-Uses default discord markdown formatting.
-Every line in the file will be its own seperate message.
+## Formatting Rules;
+- A new command must be in its own file in the phrases directory, with the filename in all lower-case.
+- This lowercase name must also be added to cmds.txt.
+- Every line in the command text file is its own response to be randomly picked.
+- Use of the `¬` character allows for newlines in the discord reply.
+- Uses default discord formatting.
