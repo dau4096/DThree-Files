@@ -104,7 +104,7 @@
 	
 	<song id="39" name="Smells Like Teen Spirit" artist="Nirvana" duration="458" genre="80s" suggestedBy="hamez_boi" link="[https://www.youtube.com/watch?v=hTWKbfoikeg]" intensity="medium" mood="" association="Original" />
 
-	<song id="3" name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
+	<song id="3" name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy;western" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
 
 
 
