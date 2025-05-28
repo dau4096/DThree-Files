@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 
 <songs>
-	<song name="Advance Australia" adtist="Gaijin Entertainment" duration="119" genre="game" suggestedBy="Howitzer" link="[https://www.youtube.com/watch?v=46oYJSQlko8]" intensity="mild;intense" mood="eventful" association="War thunder Air Forces Volume 1 ost;original" />
-	<song name="Arise, Great Country" artist="Gaijin Entertainment" duration="140" genre="game" suggestedBy="Howitzer" link="[https://www.youtube.com/watch?v=3sfeqY5-Wwk]" intensity="Intense" mood="Epic;Great" association="War thunder Air Forces Volume 1 ost;original" />
-	<song name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy" suggestedBy="Howitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
+	<song name="Advance Australia" artist="Gaijin Entertainment" duration="119" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=46oYJSQlko8]" intensity="mild;intense" mood="eventful" association="War thunder Air Forces Volume 1 ost;original" />
+	<song name="Arise, Great Country" artist="Gaijin Entertainment" duration="140" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3sfeqY5-Wwk]" intensity="Intense" mood="Epic;Great" association="War thunder Air Forces Volume 1 ost;original" />
+	<song name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
 </songs>
