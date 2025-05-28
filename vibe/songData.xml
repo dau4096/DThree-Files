@@ -100,7 +100,7 @@
 	
 	<song id="38" name="Teška Vremena, Prijatelju Moj" artist="Neki To Vole Vruće" duration="267" genre="80s" suggestedBy="boogie152" link="[https://www.youtube.com/watch?v=rsgt4z32aYE]" intensity="" mood="" association="Croatia;Non-English" />
 	
-	<song id="39" name="Smells Like Teen Spirit" artist="Nirvana" duration="458" genre="80s" suggestedBy="hamez_boi" link="[https://www.youtube.com/watch?v=hTWKbfoikeg]" intensity="medium" mood="" association="Original" />
+	<song id="39" name="Smells Like Teen Spirit" artist="Nirvana" duration="458" genre="80s;rock" suggestedBy="hamez_boi" link="[https://www.youtube.com/watch?v=hTWKbfoikeg]" intensity="medium" mood="" association="Original" />
 
 	<song id="3" name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy;western" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
 
