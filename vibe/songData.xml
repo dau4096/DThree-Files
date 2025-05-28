@@ -104,6 +104,8 @@
 
 	<song id="40" name="INVISIBLE" artist="Duran Duran" duration="191" genre="80s" suggestedBy="__dau__" link="https://open.spotify.com/track/51EpFns3CG9taCMQz6XDom?si=9a92835ebaee43fa" intensity="medium" mood="" association="original" />
 
+	<song id="39" name="Smells Like Teen Spirit" artist="Nirvana" duration="458" genre="80s;rock" suggestedBy="hamez_boi" link="[https://www.youtube.com/watch?v=hTWKbfoikeg]" intensity="medium" mood="" association="Original" />
+
 	<song id="3" name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy;western" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
 
 
