@@ -1,0 +1,6 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<songs>
+	<song name="song name" artist="creator" duration="100" genre="testA/testB" suggestedBy="__dau__" link="[url]" intensity="intense/hard" mood="hard" association="ost" />
+	<song name="song name 2" artist="creator" duration="75" genre="testA" suggestedBy="__dau__" link="[url 2]" intensity="mild" mood="chill" association="ost" />
+</songs>
