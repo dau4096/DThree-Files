@@ -33,7 +33,7 @@
 
 	<song id="4" name="Cup of Liber-tea" artist="Wilbert Roget, II" duration="217" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=R5hCkh2AH58]" intensity="intense" mood="heroic;hopeful;epic" association="Helldivers 2 OST;original" />
 	
-	<song id="32" name="Dirty Dangles" artist="Marcus Davis" duration="95" genre="game;western" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=4EqcOUGdVck&list=PLzm2jHdsIATuWUFMwCFz0rb-0654aiUy7]" intensity="medium" mood="lively;great" association="Postal 4 No Regerts Original Soundtrack;OST;Original;Running with Scissors" />
+	<song id="32" name="Dirty Dangles" artist="Marcus Davis" duration="95" genre="game;western" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=4EqcOUGdVck]" intensity="medium" mood="lively;great" association="Postal 4 No Regerts Original Soundtrack;OST;Original;Running with Scissors" />
 
 	<song id="35" name="At Doom's Gate" artist="Powerwalker" duration="305" genre="game;synth" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=VfU6MeP5Fq0]" intensity="Medium;Intense" mood="" association="Cover" />
 	
@@ -75,9 +75,9 @@
 	<song id="22" name="GATE OF STEINER" artist="Takeshi Abo" duration="236" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=2IQy143A_vU]" intensity="medium" mood="enlightening;surreal" association="SteinsGate Original Soundtrack;OST;MAGES Inc" />
 
 	
-	<song id="33" name="Messenger" artist="Takeshi Abo" duration="281" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3u1137bco5c&list=OLAK5uy_laMAy3jfrilLyiXdCxEM22L2dcXYE0YPM]" intensity="medium" mood="surreal;hopeful;revelation" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
+	<song id="33" name="Messenger" artist="Takeshi Abo" duration="281" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3u1137bco5c]" intensity="medium" mood="surreal;hopeful;revelation" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
 	
-	<song id="22;34" name="Re-awake" artist="Takeshi Abo" duration="296" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=HljFLeIkpLU&list=OLAK5uy_laMAy3jfrilLyiXdCxEM22L2dcXYE0YPM]" intensity="medium" mood="hopeful;restored" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
+	<song id="22;34" name="Re-awake" artist="Takeshi Abo" duration="296" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=HljFLeIkpLU]" intensity="medium" mood="hopeful;restored" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
 	
 
 
