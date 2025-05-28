@@ -15,9 +15,9 @@
 	
 	<song id="11" name="DCS UH-1H Huey Theme" artist="Bell Helicopters" duration="254" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=DUGVBkZIgY4]" intensity="medium" mood="chill" association="DCS UH-1H Huey;original;OST" />
 
-	<song id="27" name="DCS A-10C - Main Theme" artist="Eagle Dynamics" duration="279" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=WnfviQF0wNo]" intensity="intense" mood="intense;urgent" association="DCS A-10C Warthog;Original;OST;Eagle Dynamics" />
+	<song id="27" name="DCS A-10C - Main Theme" artist="Eagle Dynamics" duration="279" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=WnfviQF0wNo]" intensity="intense" mood="intense;urgent" association="DCS A-10C Warthog;original;OST;Eagle Dynamics" />
 	
-	<song id="31" name="Soundtrack for DCS Lock On: Flaming Cliffs 3" artist="btd" duration="260" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=BNJjRXqE8Jo]" intensity="Medium;Intense" mood="Fast;Ready" association="DCS Flaming Cliffs 3 Soundtrack;OST;Original;Eagle Dynamics" />
+	<song id="31" name="Soundtrack for DCS Lock On: Flaming Cliffs 3" artist="btd" duration="260" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=BNJjRXqE8Jo]" intensity="Medium;Intense" mood="Fast;Ready" association="DCS Flaming Cliffs 3 Soundtrack;OST;original;Eagle Dynamics" />
 
 
 
@@ -33,13 +33,13 @@
 
 	<song id="4" name="Cup of Liber-tea" artist="Wilbert Roget, II" duration="217" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=R5hCkh2AH58]" intensity="intense" mood="heroic;hopeful;epic" association="Helldivers 2 OST;original" />
 	
-	<song id="32" name="Dirty Dangles" artist="Marcus Davis" duration="95" genre="game;western" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=4EqcOUGdVck]" intensity="medium" mood="lively;great" association="Postal 4 No Regerts Original Soundtrack;OST;Original;Running with Scissors" />
+	<song id="32" name="Dirty Dangles" artist="Marcus Davis" duration="95" genre="game;western" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=4EqcOUGdVck]" intensity="medium" mood="lively;great" association="Postal 4 No Regerts Original Soundtrack;OST;original;Running with Scissors" />
 
 	<song id="35" name="At Doom's Gate" artist="Powerwalker" duration="305" genre="game;synth" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=VfU6MeP5Fq0]" intensity="Medium;Intense" mood="" association="Cover" />
 	
 	<song id="36" name="Microsoft Flight Simulator X" artist="Microsoft Game Studios" duration="212" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=tbEyX0lZ-dw]" intensity="light" mood="exciting" association="Microsoft Flight Simulator X, OST;Microsoft Game Studios" />
 
-	<song id="23" name="Adrenaline" artist="Jack Wall" duration="203" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=Y1Keu-zE3gs]" intensity="Medium;Intense" mood="Ready;Building" association="CallOfDuty Black Ops II Sound Track;OST;Original;Infinity Ward" />
+	<song id="23" name="Adrenaline" artist="Jack Wall" duration="203" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=Y1Keu-zE3gs]" intensity="Medium;Intense" mood="Ready;Building" association="CallOfDuty Black Ops II Sound Track;OST;original;Infinity Ward" />
 	
 
 
@@ -80,11 +80,11 @@
 
 
 	<!-- Battlefield IV OST -->
-	<song id="28" name="A theme for Kjell" artist="Johan Skugge;Jukka Rintamäki" duration="216" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=r0qqo5a_2Hs]" intensity="Medium" mood="Longing;Melancholy" association="Battlefield 4 Original Soundtrack;OST;Original;DICE" />
+	<song id="28" name="A theme for Kjell" artist="Johan Skugge;Jukka Rintamäki" duration="216" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=r0qqo5a_2Hs]" intensity="Medium" mood="Longing;Melancholy" association="Battlefield 4 Original Soundtrack;OST;original;DICE" />
 	
-	<song id="29" name="Rough Journey" artist="Johan Skugge;Jukka Rintamäki" duration="162" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=01yrczkftUA]" intensity="Intense" mood="Intense" association="Battlefield 4 Original Soundtrack;OST;Original;DICE" />
+	<song id="29" name="Rough Journey" artist="Johan Skugge;Jukka Rintamäki" duration="162" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=01yrczkftUA]" intensity="Intense" mood="Intense" association="Battlefield 4 Original Soundtrack;OST;original;DICE" />
 	
-	<song id="30" name="Jin Jie's Revolution" artist="Johan Skugge" duration="196" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3SBcKsnNP6g]" intensity="Medium" mood="Stressful;ongoing" association="Battlefield 4 Original Soundtrack;OST;Original;DICE" />
+	<song id="30" name="Jin Jie's Revolution" artist="Johan Skugge" duration="196" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3SBcKsnNP6g]" intensity="Medium" mood="Stressful;ongoing" association="Battlefield 4 Original Soundtrack;OST;original;DICE" />
 	
 
 
@@ -100,7 +100,9 @@
 	
 	<song id="38" name="Teška Vremena, Prijatelju Moj" artist="Neki To Vole Vruće" duration="267" genre="80s" suggestedBy="boogie152" link="[https://www.youtube.com/watch?v=rsgt4z32aYE]" intensity="" mood="" association="Croatia;Non-English" />
 	
-	<song id="39" name="Smells Like Teen Spirit" artist="Nirvana" duration="458" genre="80s" suggestedBy="hamez_boi" link="[https://www.youtube.com/watch?v=hTWKbfoikeg]" intensity="medium" mood="" association="Original" />
+	<song id="39" name="Smells Like Teen Spirit" artist="Nirvana" duration="458" genre="80s" suggestedBy="hamez_boi" link="[https://www.youtube.com/watch?v=hTWKbfoikeg]" intensity="medium" mood="" association="original" />
+
+	<song id="40" name="INVISIBLE" artist="Duran Duran" duration="191" genre="80s" suggestedBy="__dau__" link="https://open.spotify.com/track/51EpFns3CG9taCMQz6XDom?si=9a92835ebaee43fa" intensity="medium" mood="" association="original" />
 
 	<song id="3" name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy;western" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
 
