@@ -39,8 +39,7 @@
 	
 	<song id="36" name="Microsoft Flight Simulator X" artist="Microsoft Game Studios" duration="212" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=tbEyX0lZ-dw]" intensity="light" mood="exciting" association="Microsoft Flight Simulator X, OST;Microsoft Game Studios" />
 
-	<song id="23" name="Adrenaline" artist="Jack Wall" duration="203" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=Y1Keu-zE3gs]" intensity="Medium;Intense" mood="
-	Ready;Building" association="CallOfDuty Black Ops II Sound Track;OST;Original;Infinity Ward" />
+	<song id="23" name="Adrenaline" artist="Jack Wall" duration="203" genre="game" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=Y1Keu-zE3gs]" intensity="Medium;Intense" mood="Ready;Building" association="CallOfDuty Black Ops II Sound Track;OST;Original;Infinity Ward" />
 	
 
 
@@ -59,25 +58,24 @@
 	
 	<song id="19" name="Nuclear Death Toll" artist="Epic Mountain" duration="605" genre="video" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=04Q3Y2auW1Y]" intensity="medium" mood="great;retro" association="Nuclear Death Toll - Soundtrack;original;OST;Kurzgesagt" />
 	
-	<song id="20" name="Gravastars" artist="Epic Mountain" duration="382" genre="video" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=3-hFJeboM_c]" intensity="medium" mood="great;retro" 
-		association="Gravastars - Soundtrack;original;OST;Kurzgesagt" />
+	<song id="20" name="Gravastars" artist="Epic Mountain" duration="382" genre="video" suggestedBy="__dau__" link="[https://www.youtube.com/watch?v=3-hFJeboM_c]" intensity="medium" mood="great;retro" association="Gravastars - Soundtrack;original;OST;Kurzgesagt" />
 	
 	<song id="21" name="Rogue Earth" artist="Epic Mountain" duration="492" genre="video" suggestedBy="tornadoteam_the_t" link="[https://www.youtube.com/watch?v=bmNdZ--o7JM]" intensity="medium" mood="great;retro" association="Rogue Earth - Soundtrack;original;OST;Kurzgesagt" />
 	
 
 
 	<!-- SteinsGate OST -->
-	<song id="22" name="GATE OF STEINER -Main Theme-" artist="Takeshi Abo" duration="227" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=oJKXKL41EVI]" intensity="
-		medium" mood="dispair;surreal" association="SteinsGate Original Soundtrack;OST;MAGES Inc" />
+	<song id="22" name="GATE OF STEINER -Main Theme-" artist="Takeshi Abo" duration="227" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=oJKXKL41EVI]" intensity="medium" mood="dispair;surreal" association="SteinsGate Original Soundtrack;OST;MAGES.Inc" />
 	
-	<song id="22" name="Gate OF STERINER" artist="Takeshi Abo;Eri Sasaki" duration="253" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=G9YX0pO9qfM]" intensity="medium" mood="hopeful" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
+	<song id="22" name="Gate OF STERINER" artist="Takeshi Abo;Eri Sasaki" duration="253" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=G9YX0pO9qfM]" intensity="medium" mood="hopeful" association="SteinsGate 0 Soundtrack;OST;MAGES.Inc" />
 	
-	<song id="22" name="GATE OF STEINER" artist="Takeshi Abo" duration="236" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=2IQy143A_vU]" intensity="medium" mood="enlightening;surreal" association="SteinsGate Original Soundtrack;OST;MAGES Inc" />
+	<song id="22" name="GATE OF STEINER" artist="Takeshi Abo" duration="236" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=2IQy143A_vU]" intensity="medium" mood="enlightening;surreal" association="SteinsGate Original Soundtrack;OST;MAGES.Inc" />
 
+	<song id="34" name="Skyclad Observer" artist="Eri Sasaki" duration="275" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=k2LDC0sTsEQ]" intensity="medium" mood="surreal;hopeful;revelation" association="SteinsGate Soundtrack;OST;MAGES.Inc" />
 	
-	<song id="33" name="Messenger" artist="Takeshi Abo" duration="281" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3u1137bco5c]" intensity="medium" mood="surreal;hopeful;revelation" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
+	<song id="33" name="Messenger" artist="Takeshi Abo" duration="281" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=3u1137bco5c]" intensity="medium" mood="surreal;hopeful;revelation" association="SteinsGate 0 Soundtrack;OST;MAGES.Inc" />
 	
-	<song id="22;34" name="Re-awake" artist="Takeshi Abo" duration="296" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=HljFLeIkpLU]" intensity="medium" mood="hopeful;restored" association="SteinsGate 0 Soundtrack;OST;MAGES Inc" />
+	<song id="22;33" name="Re-awake" artist="Takeshi Abo" duration="296" genre="game;anime" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=HljFLeIkpLU]" intensity="medium" mood="hopeful;restored" association="SteinsGate 0 Soundtrack;OST;MAGES.Inc" />
 	
 
 
