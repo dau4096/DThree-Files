@@ -108,6 +108,7 @@
 
 	<song id="3" name="Big Iron" artist="Marty Robbins" duration="235" genre="country;cowboy;western" suggestedBy="themightyhowitzer" link="[https://www.youtube.com/watch?v=m21MujHQqWc]" intensity="mild" mood="chill" association="Gunfighter Ballads and trailsongs Album;original" />
 
+	<song id="41" name="Free Bird" artist="Lynyrd Skynyrd" duration="547" genre="country" suggestedBy="hamez_boi" link="[https://youtu.be/MQNRKX8GwPo?si=X7QiK5QOfQgGASrD]" intensity="medium" mood="" association="original;Free Bird">
 
 
 	<!-- Кино / Kino -->
