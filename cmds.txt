@@ -6,6 +6,7 @@ cesko
 wt
 hl
 titanfall
+titantip
 muted
 todaysmenu
 nextstation

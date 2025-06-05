@@ -1,0 +1,435 @@
+Slide! Crouch while sprinting to get a slide boost.
+Because you can... As a Pilot, hold melee behind another Pilot for a custom execution (and bragging rights).
+Titan creeping. Use the Low Profile kit to reduce your jump jet flares and delay a Titan's awareness on rodeoing.
+Careful! Your jump jets are still visible when they fire, even while you are cloaked.
+Finish them! When piloting your Titan, melee a doomed Titan to perform an execution.
+It's all about who you know... Join or start a Network to play with people with similar interests.
+Play your way. The Pilot weapon loadout system allows you to optimize for Pilot combat, Titan combat, or a range in between
+Unplug the enemy, Pilot! Jump onto an enemy Titan to steal a battery and damage the enemy.
+That's teamwork. Steal a Titan battery and give it to your teammate Titan to boost its health!
+Change it up! There are several factions vying for you. Don't be afraid to jump between them.
+Use your Boost! You earn a 'Boost' along the way to your earning your Titan. Be sure to use it!
+Get the drop on your opponents! Use crouch to quickly disengage a wallrun.
+Pilots vs. Titans. Grenadier and Anti-Titan weapons always damage Titans. Other Pilot weapons require hitting their weak spots.
+Don't let 'em hold you down! Use Phase Shift or Grapple to quickly escape a Gravity Star.
+Timing is everything. A well-timed stim can counteract the effects of an arc grenade.
+Beware stealthy Pilots! Use a pulse blade or Map Hack to briefly reveal cloaked Pilots.
+That's not a knife... Hit an enemy with a Pulse Blade for an instant kill!
+Curve your shots! Gravity Stars attract nearby projectiles.
+Aim for the eyes! A well-placed Firestar will interfere with a Titan's vision and do major damage.
+Keep movin'! You can maintain your momentum by sliding then quickly jumping. Rinse and Repeat!
+Distract the enemy. Use a holopilot to distract enemy Auto-Titans.
+Eject! You can eject from your Titan at any time. Begin the eject sequence by pressing %+scriptcommand1%.
+Touch and go. Short wallruns connected by long leaps give you the most speed.
+Be quick! The Turbo Engine Titan kit gives your Titan an extra dash.
+Status check! Dead enemies appear grayed out on the in-game scoreboard.
+Keep leveling up! After finishing your first Generation of unlocks on a Titan it will automatically regenerate as G2.0.
+Net worth. Your lifetime cash earnings are listed in the lobby under your name as Net Worth.
+To the death! Buy your way into the Coliseum playlist to battle it out 1v1 for a chance to win random prizes.
+Customize your HUD! Under the HUD Options in video settings you can turn some parts of the HUD OFF or ON.
+Earn your way! Each merit you earn is equal to 1XP as well as 1 credit.
+Change your allegiance! Every 5 wins with a Faction levels them up. Each Faction has its own unique rewards.
+Natural talent. The R-201 has excellent accuracy.
+Well-rounded. The R-201 is a great starter weapon and equally dangerous in a professional's hands.
+Side-to-side. The Flatline tends to kick horizontally.
+Knock out. Flatline rounds pack a punch.
+Alignment. Keeping the Flatline at eye level while shooting will hit many targets in the head.
+That's a wrap. Aim for center mass with the Hemlok - the weapon recoils toward the target’s head.
+Triple threat! The Hemlok is a 3 round burst Assault Rifle.
+Patience is a virtue. The G2 is semi-automatic, only firing one round per trigger pull.
+G-force. The G2 can be used reliably at close range without ADS'ing.
+Retaliation. The G2 makes an effective counter sniper weapon.
+Pulling G's. The G2 is the most accurate assault rifle when aimed.
+Bullet hose. The R-97 has one of the fastest firing rates of any Pilot weapon.
+On the go. The R-97 is best used while moving as fast as possible.
+Quantity over quality. What the R-97 lacks in accuracy, it makes up for in volume.
+Drill down. Get close to maximize the R-97's spread.
+Runner up. The CAR is one of the best weapons to use while wallrunning.
+Shooting from the hip. The CAR is the ideal weapon for accurate hip firing.
+Two is better than one. The Alternator's twin barrels give it heavy recoil with a high amount of damage.
+Up close and personal! The Alternator is best suited for close combat.
+Mild mannered. The Volt is recognized by its blue tracers and light kick.
+Long distance. With the slower rate of fire, the Volt's recoil is much more manageable at range.
+Crowd control. The Spitfire can suppress large groups of enemies with one magazine.
+Steady aim. The Spitfire's recoil is predictable and can be handled with a little bit of practice.
+Listen for it. The pitch of the Spitfire will change when it is nearly out of ammo.
+Peripheral vision. The Spitfire has a built in indicator that helps catch a Pilot's eye when low on ammo.
+Beat the drum. The Spitfire reloads faster when it still has a few rounds left inside.
+Keep pace. Spitfire accuracy is greatly increased when fired in controlled bursts.
+Caught offguard. Even in close quarters, the Spitfire makes a formidable offhand weapon.
+Star power. Pick up a second LSTAR to carry two, and never reload.
+Recharge. The LSTAR's ammo automatically replenishes.
+The thin red line. Keep the LSTAR from ever overheating and avoid its lengthy reload.
+Get ahead of yourself. Lead targets while using the LSTAR to maximize hits on target.
+Apply generously. Quickly strafe left and right while firing the LSTAR to cover an area in projectiles.
+Burst fire. Fire the LSTAR in volleys to manage the internal cooldown device.
+Get trigger happy. The LSTAR was never designed to be a single shot weapon.
+Downforce. The LSTAR's cooling mechanism jolts the gun downwards after it's fired aiming down the sight.
+Fire support. The regenerating nature of the LSTAR's ammo makes it a great suppression weapon.
+Wait for the beep. The LSTAR will begin beeping when it's close to overheating.
+Think ahead. Prefiring the Devotion helps to maximize its effectiveness.
+Hold the line. The longer the Devotion fires, the less recoil a Pilot experiences.
+Ramp it up! The Devotion will fire faster the longer the trigger has been pulled.
+Predictable. The Devotion will stablize itself after ~35 rounds have been fired.
+Overshoot. The Kraber projectile falls the longer it flies.
+One shot, one kill. The Kraber will kill any human sized target in one shot.
+Bring enough gun. Aim for Titan Crit spots with the Kraber.
+Lucky shot. An unaimed Kraber bullet can still be lethal.
+Hang time. A mid air shot from the Kraber is still accurate when aimed.
+Instant gratification. DMR shots travel instantaneously.
+Double tap. The DMR can kill a healthy Pilot with two shots.
+Eagle eye. The DMR will always be accurate when the Pilot is aiming through the scope.
+Headshot. A headshot from the DMR will always kill a Pilot.
+Gravity defying. DMR rounds never drop over distance.
+Know your enemy. The DMR is fast and effective vs. Pilots, not so much with Titans.
+Remember the LMO. A Double Take with its stock Low Magnification Optic can often outplay opponents.
+Double time. The Double Take aimed at crowds can take down multiple targets with one shot.
+Glancing angle. Equipping the ricochet attachment to the Double Take allows Pilots to shoot around corners.
+Headliner. Shooting the Double Take at eye level can score multiple headshots in one shot.
+It's all in the timing. Double Take shots will travel before they reach their target.
+Straight shooter. Double Take shots do not drop over distance.
+Walk the line. The Double Take's bullet trails will often give away a sniper's location.
+Quick draw. The Wingman can be shot from the hip with incredible accuracy.
+Handcannon. The Wingman packs a heavy punch to both Pilots and Titans.
+Weapon ready! The Wingman comes with Fast Swap automatically built-in.
+Hunt in peace. Use the silencer mod to silently hunt with the Wingman.
+Bank shots! The Wingman Elite has the ricochet mod rather than the silencer mod.
+Triple tap! The Mozambique fires 3 shots at once.
+Multi-headshots! A well aimed Mozambique shot can land 2 or 3 headshots on one Pilot in one shot.
+Head and shoulders. The Mozambique aimed at center mass will likely hit an enemy's head.
+Back-up plan. The RE-45 Auto gives Pilots a full-auto pistol for those worst case scenarios.
+Full-auto on demand. No need for the Fast Swap mod; the RE-45 Auto comes with Fast Swap built-in.
+Automatic stealth. The RE-45 with the silencer mod allows Pilots to eliminate enemies without revealing position.
+Pacing. The P2016 is semi-automatic and has a high degree of accuracy.
+Shhh... The P2016 with a silencer allows Pilots to hunt the Remnant Fleet without being detected.
+Dry run. Skilled Pilots empty the entire magazine of the P2016 every chance they get.
+Tight squeeze. Hold the trigger down to continually fire the EVA-8 until it's out of ammo.
+Put 'em down! A point blank shot from the EVA-8 will kill an enemy Pilot.
+Know your role. EVA-8 shotgun pellets travel a short distance.
+Range time. Repeated hits at distance with the EVA-8 can still be lethal.
+Tight groups. The EVA-8 works well against clusters of targets.
+Run-time. The EVA-8's automatic fire and pellet spread make it an ideal weapon for wallrunning in close quarters.
+Center mass. Aim for the center of a target when using the EVA-8 for maximum damage.
+Spread 'em. Mastiff pellets spread apart the farther they travel.
+Flatter is better. All of the Mastiff pellets travel on a horizontal line.
+Tighten up. Firing the Mastiff while in ADS will tighten the cone of pellets.
+Hot-headed. Firing the Mastiff at eye height against humanoid targets will headshot all targets at once.
+Feed the beast! A skilled Pilot will always reload the Mastiff when not in combat.
+Lead-free. Thanks to the horizonal pellet spread of the Mastiff, Pilots rarely have to lead their shots.
+One-eight-seven. Mastiff pellets will burn out around 187.5ft.
+Last round. It takes longer to reload a Mastiff that is empty.
+Thread the needle. Unless obstructed, individual Mastiff pellets will continue travelling towards a target.
+Reach out. Aiming down the sight with the Mastiff allows its pellets to travel further.
+Close the gap. The Sidewinder is best used against Pilots in close quarters battle.
+Thorn in their side. Fire volleys of Sidewinder missiles towards Titans at distance to deal sigificant damage from safety.
+Spray and pray. Shooting while sweeping the Sidewinder will cover a large area in many rocket explosions.
+User friendly. Sidewinder rockets will deal little damage to the user in close quarters battle.
+Armor piercing. The Sidewinder will chew through a Titan's heavy armor.
+Micro-missiles. The Sidewinder's missiles are compact and require hits to be on target for maximum damage.
+Self awareness. The Sidewinder's rockets will leave smoke trails leading to the shooter.
+Lead not follow. The Sidewinder's rockets require considerable lead on a moving target.
+Top it off. Always reload the Softball during any lulls in combat.
+Bullet drop. Use the bullet drop compensator reticle on the Softball to accurately place rounds at distance.
+Splash damage. Shoot Softballs past your target and use the background to your advantage.
+Take the lead. Lead your targets when shooting the Softball.
+Stick 'em. Direct hits with the Softball have a chance kill targets on impact.
+Tag, you're it. The Softball will stick to enemy targets on direct hit.
+On the trail. Other Pilots can see the smoke trails left behind by Softball rounds.
+Sticky bomb. The Softball is a potent Anti-Titan weapon.
+Line 'em up. Aiming with the Softball will show the trajectory of the round.
+Friendly fire. Softball rounds do not stick to teammates.
+Fire and forget. Pilots can fire the EPG at a stationary target with guaranteed accuracy.
+Blue thunder. The EPG has a small magazine size - shot placement is key.
+Noise discipline. The distinctive sound of the EPG will quickly alert nearby Pilots.
+Strength through superior firepower. The EPG damages Titans as much as most Titan weapon platforms.
+Up and over. Using the Hover Pilot kit gives the EPG a significant advantage in combat.
+Keep your distance. Due to a large explosion radius, the EPG manual recommends outdoor use only.
+Timed travel. EPG projectiles move at a slow speed towards their target.
+Bullseye. A direct hit from an EPG will gib most targets.
+Ascend. The Cold War was designed to be used from elevation.
+Gather 'round. The Cold War works best against groups of enemies.
+Armor engagement. The Cold War can destroy a Titan with a skilled Pilot behind the trigger.
+Fire support. The Cold War can provide target suppression from a safe distance.
+Danger close. Avoid using the Cold War indoors - many Pilots have blown themselves to pieces.
+Hit-and-run, Pilot! The area of effect is large enough with the Cold War to be used as a wallrun weapon.
+Eyes on target. Vinson Dynamics equipped the Cold War with a quick-read display for a Pilot's peripheral vision.
+Pitch-perfect. The pitch of the Cold War will peak when its ready to fire.
+High-speed technology. The Cold War uses caseless ammunition, which requires the rifle to cool before subsequent shots.
+Point-and-click. The Cold War was designed to be fired from the hip.
+Lightspeed! The Charge Rifle beam travels instantly, to any distance.
+Lens flare. Pilots using the Charge Rifle are easily spotted - the front end of the rifle glows bright orange.
+Feather the trigger. Keep the Charge Rifle close to firing by keeping it charged at all times.
+Dust-to-dust. The Charge Rifle beam will vaporize human-sized targets.
+Pinpoint precision. The Charge Rifle has incredible accuracy when aimed.
+Residual radiation. After the Charge Rifle is fired, the shooter's location is given away.
+Gone fishing. Blindfire the Mag Launcher near metallic enemies to score hits.
+Scratch their back. The MGL quickly kills enemies rodeoing enemy Titans.
+Don't judge. MAG Launcher rounds will attract themselves to any kind of metallic enemy.
+Demolition man. Flood areas with MGL rounds to clear tight spaces.
+Timed delay. MGL rounds are on a timed fuse.
+Blunt force. Direct hits with Mag Launcher projectiles will hurt enemies.
+Over the hill. MGL rounds travel in an arcing pattern.
+Feel 'em out. Fire the Thunderbolt into unknown territory to see if it is clear.
+Chain lightning! The Thunderbolt will damage many targets at once.
+Direct damage. A direct hit from the Thunderbolts energy ball will heavily damage a target.
+Slow and steady. The Thunderbolt's projectile travels slowly.
+Lock and load. The Archer can only be fired when locked onto a target.
+Self help. Once fired, an Archer rocket will guide itself to its target, even if it moves.
+Clear intentions. An enemy Titan is warned when an Archer has locked onto them.
+Fake out. Keep an Archer rocket locked on target for an extended amount of time to bypass Titan defense systems.
+Connection interrupted. An Archer will resume its lock on even if line of sight is temporarily broken.
+Look out below! Looking down when using grapple will allow a Pilot to swing further forward.
+Whip it! Swing further by looking below your grapple point.
+Get over here! Attaching the grapple to a human sized character will pull them in for a melee kill.
+Early out. Disconnecting the grapple early will help it recharge quicker.
+Measure twice, grapple once. Learning grapple's range is the first step to mastering it.
+Tag! Pilots can embark into their Titan by grappling it.
+Gotcha! Pilots can grapple moving objects.
+Nowhere to hide. Pulse Blade makes a cloaked Pilot flicker.
+Nailed it! Sticking an enemy Pilot with the Pulse Blade will kill them.
+X-Ray vision. The Pulse Blade can spot enemies behind walls.
+Hide it well. The Pulse Blade can be destroyed after it has been deployed.
+Juiced! Stim will quickly recharge a Pilot's health when used.
+Nitro! A stimmed Pilot can run almost twice as fast.
+In your face! Use stim to quickly close the distance to an enemy and melee them.
+Defy gravity! Phase Shift can escape a gravity star.
+Look before you leap. Pilots that un-phase into Titans are destroyed.
+Telefrag! Leaving Phase Shift while inside an enemy of human size will kill them.
+Take a breather. Pilots often Phase Shift out of combat to reload.
+Surprise! Experienced Pilots sometimes phase shift when standing on top of important objectives.
+Die another day. Pilots near death can save themselves by phase shifting to safety.
+Astral travel. Pilots can see other phase shifted characters in the phase space.
+Follow the trail. Pilots who phase leave a small trail behind which reveals where they went.
+Fortify! Amped Walls in doorways can be both a strong offense and a solid defense.
+Form fitting. The Amped Wall will conform to the orientation of the surface its placed upon.
+Buff it up. Any projectile or bullet that passes through the Amped Wall will become more powerful.
+Can't touch this. Anything behind the Amped Wall will be protected from enemy fire.
+Quality craftmanship. The Amped Wall will even stop Titan weapons from hurting the user.
+Ghostly powers. Keep enemies away from the Amped Wall, as they can still walk through it.
+Be self-aware. A cloaked Pilot's jump jets can still be seen.
+Listen up! A Pilot's cloak will give off a slight humming sound.
+And like that... Cloak will make a Pilot completely invisible to a Titan.
+Cloak %offhand1% is useful for escaping dangerous situations.
+Use Cloak %offhand1% to disappear when you are in trouble.
+Firing a weapon ends Cloak immediately, revealing your position to hostiles.
+Copy cat. The Holo Pilot will mimic a Pilot's last move on activation.
+Seeing double. The Holo Pilot is identical in appearance to a real Pilot.
+Scout ahead. Use a Holo Pilot to make sure the area up ahead is clear before entering.
+Mind games. Place Holo Pilots in frequently occupied areas to trick enemies into revealing themselves.
+You're surrounded! Activate multiple Holo Pilots when assaulting enemy territory to appear as a larger force.
+Artificial intelligence. Auto-Titan AI will think the Holo Pilot is the real thing.
+Don't stop! The smart pistol boost comes with the Gunrunner mod built in.
+Limited ammo. The smart pistol comes equipped with 2 full magazines of ammo.
+Enhanced targetting. Let the weapon do the aiming...
+Feeling smart? Sometimes the smartest things are the easiest to use.
+Miss me? The smart pistol locks onto multiple targets at once.
+Grenade out! The smart pistol can shoot down incoming grenades.
+Map Hack reveals all enemy positions for a short time.
+Use ordnance to disrupt groups of enemies.
+Plan ahead! Cook frag grenades before throwing them to shorten the chance of missing your target.
+Drop in! Throw a frag grenade through a doorway while sliding by to surprise enemies inside.
+Put your back into it. Frag grenades inherit the Pilot's momentum.
+Bowling for frags! Roll a frag grenade through tight spaces to clear rooms.
+Kit up! Equip Ordnance Expert to see a frag grenade's trajectory before it's thrown.
+Never enough. Pilots may find themselves throwing two frag grenades at a target for maximum coverage.
+P.S. A frag grenade will be dropped on death if it was already being cooked.
+Stunning! Arc Grenades slow Pilot movement and ability to aim.
+Use Arc Grenades to stun robotic enemies.
+Contact high. Arc grenades explode on contact with an enemy.
+Group activity. Arc grenades can stun large groups of enemies.
+Lightning round. Arc grenades can kill injured enemies.
+Ready-made. Arc Grenades cannot be cooked.
+Suck it down! A gravity star will inhale any projectile nearby.
+Fly trap. A gravity star will ensnare human-sized enemies temporarily.
+Secret ingredients. Shooting projectiles into a gravity star will make it that much more deadly.
+Bunny hop. The gravity star will pop off of the ground just before detonation.
+Light eater. Bigger enemies are too heavy to be pulled into the gravity star.
+Hot box! Deploying electric smoke grenades into a room with enemies will quickly clear it.
+Concealment over cover. Electric smoke grenades hide team movement.
+Smoke out. Electric smoke grenades work great against Titans.
+Fire fighter! Electric smoke grenades put out thermite fires.
+David and Goliath. Throw a Firestar at a Titan's cockpit to blind the Pilot inside.
+Stick it to the man! Directly hit a target with the Firestar to stick it to them.
+Vicious firestarter. Attach a Firestar to a door or window to discourage enemies from using it.
+The floor is lava. Stick a Firestar on the floor to hurt enemies who step through it.
+Stick up! Satchels can be stuck to characters before detonation.
+It's a trap! Pilots can effectively booby trap areas with satchels.
+Remote control. Double tap %reload% to detonate placed satchels at any time.
+Power up! Use the Power Cell kit with the Tactikill mod to maximize your Tactical availability.
+Cover to cover. The Fast Regen kit keeps Pilots who use cover alive much longer.
+Hole-in-one. Ordnance Expert kit helps Pilots put ordnance exactly where they want.
+Catch! Use the Ordnance Expert kit to accurately hit enemies directly with ordnance.
+Our little secret. The Ordnance Expert kit's prediction arc can only be seen by the Pilot using it.
+Tell me more. The Ordnance Expert kit shows an ordnance's trajectory as well as the first bounce it will take.
+Basic training. Each Pilot ordnance has its own trajectory, use the Ordnance Expert kit to learn them.
+Every second counts. The Phase Embark kit is the fastest way for a Pilot to Embark their Titan.
+Photo finish. Phase Embarking into a Titan takes less than a second.
+Speed kills. A Pilot using the Phase Embark kit and Warpfall Titanfall kit can board their Titan quicker than anyone else.
+Play the field. Use the Kill Report kit to help find direction in Free-for-All to see all player death locations.
+Situational awareness. Use Kill Report to help show where hot spots of fighting are.
+Large or small. The Kill Report kit shows both Pilot and Titan deaths on the field.
+Hang em high. The Wallhang kit allows Pilots to hang on any surface that can also be used for a wallrun.
+Stalk your prey. Use the Wallhang kit to hide in unexpected locations.
+Hang ten. The Hover kit allows Pilots to float in midair.
+In-and-out. The Hover kit will slow a Pilot to a stop, then accelerate them on their previous trajectory.
+Afterburner. A hovering Pilot's jumpkit engages massive thrust to keep them in the air.
+Trick shot. Use the Hover kit to stablize sniper rifles in midair.
+White whale. Using the Hover kit is an excellent tactic for hunting Titans.
+Out of sight, out of mind. The Low Profile kit hides a Pilot's jump jets.
+Each Titan has a primary weapon, three secondary abilities, and a Core. Additionally, Titans have anti-pilot Electric Smoke they can deploy. Electric Smoke can also extinguish thermite.
+Got your back. A Titan using Assault Chip is much more combat proficient than one without.
+Battle ready. A Titan with Assault Chip will use offensive abilities to attack targets.
+Can't see me. Stealth Auto-Eject allows Pilots get out of dangerous situations undetected.
+Hands free. The Stealth Auto-Eject Titan kit will override manual Titan ejection.
+I will survive. Stealth Auto-Eject guarantees a Pilot will survive even if their Titan doesn't.
+Immunity. A Titan with the Stealth Auto-Eject Titan kit cannot be executed by another Titan.
+Speed up. Use the Turbo Engine Titan kit to give slower Titans a dash.
+Maximum speed. Add the Turbo Engine Titan kit to a fast Titan to give them even more speed.
+Dodge this. The Turbo Engine Titan kit is useful for dodging other Titan attacks.
+Hardcore headstart. Equip the Overcore Titan kit to get a head start on earning a Titan's core ability.
+Critical mass. The Nuclear Ejection Titan kit can only be activated when a Titan is doomed.
+Blast radius. Nuclear Ejection will only kill targets in close proximity.
+Tenacious defense. The Counter Ready Titan kit gives Titans two Electric Smoke uses.
+Smokescreen. Use the Counter Ready Titan kit to block enemy sightlines.
+No tresspassing. A Titan's Dome Shield will hurt enemies who venture inside.
+Home base. As a Pilot, stay safe inside of friendly Dome Shields when reloading.
+About face! A Titan using Warpfall lands facing away from the Pilot to quickly enter combat.
+Sharing is caring! All of Ion's abilities draw from a shared energy pool.
+Watch your dashes! Ion comes equipped with 1 dash by default.
+Keep it charged. The Entangled Energy kit for Ion relies on critical hits to charge her energy.
+More core! Use Ion's Grand Cannon kit to increase the duration of Laser Core.
+Pull! The Splitter Rifle excels at destroying targets in mid-air.
+Low battery. Using the secondary firing mode on the Splitter Rifle will drain Ion's energy.
+Into oblivion. Splitter Rifle rounds are absorbed by Vortex Shields and cannot be fired back.
+The Splitter's 3 way split shot makes hitting Pilots easier.
+Block and collect enemy shots by holding up the Vortex Shield, then release to fire them back.
+Ion's Vortex Shield can be used to detach enemy ordnance that has been stuck to her.
+Precision aim. Laser shot is effective versus Titan weak spots.
+Ion's Laser Tripwire can be used to block off Pilot doorways.
+Ion's Laser Core is most effective when the enemy Titan has no nearby cover.
+One of Ronin's strengths is his speed, equipped with 2 dashes by default.
+Pin them in. Equip Thunderstorm as Ronin's kit to throw two Arc Waves.
+Blademaster. Ronin's Highlander kit allows him to use his sword core longer.
+The Ricochet Rounds kit allow Leadwall pellets to ricochet off of surfaces.
+Phase 'em out. The Temporal Anomaly kit gives Pilots more Phase Dash as Ronin.
+Quick dash! Sword Core also makes Ronin's dash recharge faster.
+Calling the shots. The Leadwall's Ricochet Rounds kit can be used to flush out hiding Pilots.
+Shredder. The Leadwall is very effective against human sized targets.
+Know your role. The Leadwall's effective range is limited.
+Cone of death. Aiming tightens the spread of the Leadwall's pellets.
+Ronin's Sword Parry reduces some, but not all, damage taken.
+Ronin's Arc Wave slows and hurts escaping Pilots.
+Ronin's Phase Dash can be used to quickly get him out of trouble.
+Ronin's Phase Dash gets him up close quickly.
+Sword Core electrifies Ronin's broadsword.
+Your thermite will quickly destroy you if you stand in it.
+Fire bad! Scorch is not protected from his own thermite, should it touch him.
+Double down! Stacking Scorch's attacks on top of each other piles up area damage quickly.
+Scorch's dash recharges slowly. Use the Turbo Engine Titan kit to get some extra speed.
+Self defense. Scorch's Tempered Plating kit reduces the damage taken from his own attacks.
+Firefight. Equip Scorch's Wildfire Launcher kit to double secondary fires from the T-203.
+Lake of fire. Scorch's T-203 leaves damaging residual thermite.
+Exponential damage! Stacking Scorch's attacks on top of each other piles up area damage quickly.
+Indirect damage. The T-203 Thermite Launcher will explode on impact, leaving fire behind.
+Squishy. The T-203 will instantly kill human sized targets with a direct impact.
+Call in the artillery. Firing the T-203 at choke points from a distance can work as a long-range mortar.
+Scorch's Thermal Shield melts incoming bullets and projectiles.
+Scorch's Firewall can be used to block in enemy Titans.
+Drop barrels! Incendiary Traps stack, effectively doubling their damage output.
+Scorch's Flame Core fires a powerful thermite shockwave.
+Dodge cautiously. Tone only has 1 dash by default.
+Great wall. Tone's Reinforced Particle Wall kit can help take control of vital chokepoints.
+Tone's Pulse-Echo Titan kit makes locking onto targets much easier.
+Get tone, Tone! The 40mm and Sonar Lock establish lock-ons on enemy Titans.
+Think ahead. 40mm shots from the Tracker Cannon have travel time before they land on target.
+Pink mist. A 40mm Tracker Cannon round to a human sized target will vaporize them.
+Close enough. The Tracker Cannon will lock onto a target even if you hit them with splash damage.
+Giantkiller. The Tracker Cannon will lock onto targets larger than humans.
+3 to lock! A solid lock requires 3 hits on the target with the Tracker Cannon.
+Tone's Particle Wall can be used to defend her back.
+The Particle Wall has a long cooldown duration.
+One way defense. Particle Walls only block shots from one side.
+Prepare. Tracker Rockets require lock-on before they can be fired.
+Tone can fire over and around obstacles with her Tracker Rockets.
+Getting locks on multiple Titans enables Tone to fire more tracker rockets. *Tone is most deadly when she has established a lock.
+Guide the core. Salvo Core missiles are guided by where she looks.
+Northstar can stick and move quickly with 2 dashes installed by default.
+Stay nimble. Northstar moves twice as fast in midair with the Viper Thrusters Titan kit.
+Heavy load. Northstar's Enhanced Payload Titan kit makes cluster missiles even more lethal.
+Hold for power. Each level of the Plasma Railgun's charge increases damage.
+Eraser. The Plasma Railgun will vaporize any human sized target at any level of charge.
+Light-bender. The Plasma Railgun's projectile travels so fast it bends light behind it.
+Critical blow. Hitting a Titan's weak point with the Plama Railgun will cause massive damage.
+Permadeath. A fully charged Plasma Railgun round to a doomed Titan's weak point will cause them to explode.
+Northstar's Tether Trap locks enemy Titans in place for a moment.
+Northstar's Hover can be used to surprise an unwitting enemy.
+Beware. Flight Core is powerful but also puts her in a vulnerable position.
+Spin to win. Legion's abilities require the Predator Cannon to be spun up.
+Ammo Swap allows him to change states and be most effective based on range.
+Need speed? Use the Turbo Engine kit to speed up Legion's dash recharge.
+Lock-n-load. Legion's Enhanced Ammo Capacity kit gives him 40 additional bullets.
+Speedwalk. Use Legion's Light-Weight Alloys kit to walk faster when using the Predator Cannon.
+Now hear this! The Predator Cannon's barrel spin will change pitch when it's running out of ammo.
+Brace yourself. The Predator Cannon must be primed before it can be fired.
+Pre-spin. The Predator Cannon can be prematurely spun up to instantly fire at enemies.
+Engagement range. Use the mode switch to change the Predator Cannon from short to long range.
+Dynamic attacks! The Power Shot on the Predator Cannon is different depending on which range it is currently set to.
+Legion's Gun Shield deploys much faster if you've already primed his Predator Cannon.
+Legion's CQB Powershot does more damage than his Range mode Powershot.
+Legion's Ranged Powershot is effective against a Titan's weak spots.
+Legion's Ammo Swap allows the main gun to switch between short and long range modes.
+Smart Core locks onto enemy targets for guaranteed hits.
+Survive. Core Upgrades are an essential part of Monarch's power.
+Rearm can be used offensively or defensively. Learning when to engage or disengage is important.
+Energy Siphon's slow can be used to set up Rocket Salvo.
+Mix and Match. Try different Upgrade combinations to find the right playstyle for you.
+Headstart. Use Battery Boost before embarking to accelerate your first Upgrade.
+Communicate. Let your teammates know when Energy Transfer is active.
+Ticks chase enemies relentlessly, exploding once they reach their target.
+A Tick does major damage to anything caught in its blast area.
+Ticks never give up the chase, but Pilots move faster.
+Destroying a Tick at range is the safest approach.
+IMC forces are trained to lay down fire on suspected enemy positions.
+IMC Grunts can be executed by approaching them from behind.
+Spectres are quickly destroyed with headshots.
+You can cripple Stalkers by destroying their legs.
+Shooting a Stalker in the back makes it overload and explode.
+Stalkers are slow and can be evaded by jumping over them.
+Reapers flush out Pilots by launching many Ticks.
+A Reaper's main weak point is in its narrow waist area.
+Reapers can easily crush a nearby Pilot.
+Sentry turrets have a very limited field of view.
+Satchels can easily destroy turrets.
+To slide, press Crouch while sprinting.
+Slide helps you get to cover quickly.
+Wallrunning boosts Pilot speed, making you harder to hit.
+Short wallruns connected with long leaps give you the most speed.
+Your own weapons can damage you if you are not careful.
+You can move while in midair to make small course corrections.
+Try sliding off the edges of platforms to gain more speed.
+Increase your speed by chaining together wallruns, double jumps, slides, and other mobility moves.
+Highly skilled Pilots will engage their targets without stopping.
+Carefully thrown grenades can eliminate multiple targets.
+High-powered projectile weapons can eliminate multiple targets with one shot.
+Time your wallruns and double jumps carefully for maximum speed.
+Skilled Pilots can wallrun effectively on curved surfaces.
+Switching to another weapon is usually faster than reloading.
+Optimize your run by switching between weapons that are effective at different ranges.
+"Cook" frag grenades before throwing to detonate them at just the right time.
+Prowlers can be downed more quickly by headshots.
+A quick double jump can put you just out of a Prowler's reach.
+Arc Grenades disable a Shield Captain's energy wall.
+The Shield Captain is vulnerable to attacks from above or the side.
+A Shield Captain's energy wall collapses if it takes enough damage.
+Specialists deploy portable Ticks and flying Drones.
+Headshots will kill a Specialist quickly.
+Watch out for crushing hazards!
+Be careful where you stand. The Assembly is a dangerous environment.
+Watch for the emergency lights near dangerous areas of the Assembly line.
+Toxic sludge is highly corrosive, killing organics within seconds.
+Toxic sludge is extremely hazardous to organic life.
+Titans are impervious to toxic sludge.
+Hazard - Environmental hazards can be avoided by time-traveling.
+Turret - Turrets may not exist in the other timeline.
+Titan - Use time travel to deal with powerful enemies.
+Shield - Flank enemies by time-traveling.
