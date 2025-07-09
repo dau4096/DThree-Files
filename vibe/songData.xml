@@ -111,6 +111,18 @@
 	<song id="41" name="Free Bird" artist="Lynyrd Skynyrd" duration="547" genre="country" suggestedBy="hamez_boi" link="[https://youtu.be/MQNRKX8GwPo?si=X7QiK5QOfQgGASrD]" intensity="medium" mood="" association="original;Free Bird" />
 
 	<song id="42" name="Around the World" artist="A Touch of Class" duration="214" genre="80s;disco;pop" suggestedBy="__dau__" link="https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB?si=fa088cc2a66f4ab3" intensity="high" mood="upbeat;happy;fun;dance" association="original;dance" />
+
+
+	<!-- House music -->
+	<song id="43" name="Ocean" artist="Patrick Topping" duration="211" genre="house" suggestedBy="__dau__" link="https://open.spotify.com/track/7kyRganwIohcGBSqiB0AYP?si=4d2725e32afc444b" intensity="high" mood="dance;vibe" association="original;house music" />
+	
+	<song id="44" name="Walk On Air" artist="Patrick Topping" duration="228" genre="house" suggestedBy="__dau__" link="https://open.spotify.com/track/3D0c1zeclp4KAoeM7HZZ0r?si=a5b294b5ceb9433e" intensity="high" mood="dance;vibe" association="original;house music" />
+	
+	<song id="45" name="Make Me Happy" artist="Patrick Topping" duration="205" genre="house" suggestedBy="__dau__" link="https://open.spotify.com/track/3O4mzMMjxZpCQUSYtq4So4?si=ef3b7662395a4ca9" intensity="high" mood="dance;vibe" association="original;house music" />
+	
+	<song id="46" name="Whisper" artist="Patrick Topping" duration="184" genre="house" suggestedBy="__dau__" link="https://open.spotify.com/track/6v5ovNPrLpOkFyM7gWorZW?si=8de68d18e7e7440f" intensity="high" mood="dance;vibe" association="original;house music" />
+	
+	<song id="47" name="Energy" artist="Patrick Topping" duration="242" genre="house" suggestedBy="__dau__" link="https://open.spotify.com/track/5YoLcp1bzRTN8sNWXuGvxu?si=eda450550f1d47bd" intensity="high" mood="dance;vibe" association="original;house music" />
 	
 
 	<!-- Кино / Kino -->
