@@ -26,3 +26,4 @@ shrimply
 mc
 f1
 funfact
+clanka
