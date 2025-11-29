@@ -1,0 +1,40 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!-- Index file for all artbooks and their pages. -->
+
+
+<artbookIndex>
+
+<!-- Included artbooks -->
+<books>
+
+	<book name="The Art of Titanfall" media="game" source="Titanfall" index="0" ISBN13="978-1783291946" acronym="tf1" />
+	<book name="The Art of Titanfall 2" media="game" source="Titanfall 2" index="1" ISBN13="978-1785653698" acronym="tf2" />
+	<!--book name="Raising the Bar" media="game" source="Half-Life 2" index="2" ISBN13="978-0761543640" acronym="hl2" /-->
+
+</books>
+
+
+
+<!-- Pages from artbooks. Order insignificant but should attempt to be neat. -->
+<pages>
+
+	<!-- Example pages -->
+	<page number="10" book="1" tags="titan,sp,bt,bt7274,render" path="titans/10.tf2.png" />
+	<page number="12" book="1" tags="titan,sp,bt,bt7274,render" path="titans/12.tf2.png" />
+	<page number="14" book="1" tags="titan,sp,bt,bt7274,concept,art" path="titans/14.tf2.png" />
+	<page number="16" book="1" tags="titan,mp,ogre-based,bison,concept,art" path="titans/16.tf2.png" />
+	<page number="18" book="1" tags="titan,mp,ogre-based,bison,ronin,art,action" path="titans/18.tf2.png" />
+	<page number="20" book="1" tags="titan,mp,ogre-based,legion,render" path="titans/20.tf2.png" />
+	<page number="22" book="1" tags="titan,mp,stryder-based,northstar,render" path="titans/22.tf2.png" />
+	<page number="24" book="1" tags="titan,mp,stryder-based,northstar,art,action" path="titans/24.tf2.png" />
+	<page number="26" book="1" tags="titan,mp,ogre-based,scorch,render" path="titans/26.tf2.png" />
+	<page number="28" book="1" tags="titan,mp,stryder-based,ronin,scorch,bison,art,action" path="titans/28.tf2.png" />
+	<page number="30" book="1" tags="titan,mp,stryder-based,ronin,ogre-based,bison,render" path="titans/30.tf2.png" />
+	<page number="32" book="1" tags="titan,mp,atlas-based,tone,concept,render" path="titans/32.tf2.png" />
+	<page number="34" book="1" tags="titan,mp,atlas-based,ion,art,action" path="titans/34.tf2.png" />
+	<page number="36" book="1" tags="titan,mp,journeyman,civillian,stryder-based,northstar,concept,art" path="titans/36.tf2.png" />
+
+</pages>
+
+
+</artbookIndex>
