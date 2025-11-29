@@ -55,8 +55,11 @@
 	<!-- Weapons -->
 	<page number="92" book="1" tags="tf2,pilot-weapon,titan-weapon,gun,brute,leadwall,ronin,thunderbolt,shotgun,explosive,render" path="weapon/92.tf2.jpg" />
 	<page number="94" book="1" tags="tf2,pilot-weapon,gun,kraber,l-star,sniper,smg,energy,render" path="weapon/94.tf2.jpg" />
-	<page number="94" book="1" tags="tf2,pilot-weapon,gun,t-203,thermite,cannon,40mm,mastiff,shotgun,splitter-rifle,rifle,particle-accelerator,energy,render" path="weapon/94.tf2.jpg" />
-	<page number="94" book="1" tags="tf2,pilot-weapon,gun,softball,explosive,l-star,energy,xo16,rifle,r97,r201,double-take,sniper,art,render" path="weapon/94.tf2.jpg" />
+	<page number="96" book="1" tags="tf2,pilot-weapon,titan-weapon,gun,t-203,thermite,cannon,40mm,mastiff,shotgun,splitter-rifle,rifle,particle-accelerator,energy,render" path="weapon/96.tf2.jpg" />
+	<page number="98" book="1" tags="tf2,pilot-weapon,titan-weapon,gun,softball,explosive,l-star,energy,xo16,rifle,r97,r201,double-take,sniper,art,render" path="weapon/98.tf2.jpg" />
+	<page number="100" book="1" tags="tf2,pilot-weapon,gun,wingman,charge-rifle,rifle,energy,concept,art,render" path="weapon/100.tf2.jpg" />
+	<page number="102" book="1" tags="tf2,pilot-weapon,gun,scope,sniper,knife,melee,time-travel,render" path="weapon/102.tf2.jpg" />
+	<page number="104" book="1" tags="tf2,pilot-weapon,titan-weapon,melee,broadsword,sword,knife,firestar,thermite,pulse-blade,pulse,ronin,machete,render" path="weapon/104.tf2.jpg" />
 
 </pages>
 
