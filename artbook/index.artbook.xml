@@ -19,6 +19,7 @@
 <pages>
 
 	<!-- The Art of Titanfall -->
+	<!-- Titans -->
 	<page number="8" book="0" tags="tf1,titan,mp,ogre-based,ogre,render" path="titan/8.tf1.jpg" />
 	<page number="10" book="0" tags="tf1,titan,mp,ogre-based,ogre,render" path="titan/10.tf1.jpg" />
 	<page number="12" book="0" tags="tf1,titan,mp,render,action,interior" path="titan/12.tf1.jpg" />
@@ -26,9 +27,17 @@
 	<page number="16" book="0" tags="tf1,titan,mp,atlas-based,atlas,render" path="titan/16.tf1.jpg" />
 	<page number="18" book="0" tags="tf1,titan,mp,atlas-based,atlas,render" path="titan/18.tf1.jpg" />
 	<page number="20" book="0" tags="tf1,titan,mp,stryder-based,stryder,render" path="titan/20.tf1.jpg" />
+	<page number="68" book="0" tags="tf1,titan,industrial,civillian,concept,art" path="titan/68.tf1.jpg" />
+	<!-- Weapons -->
+	<page number="72" book="0" tags="tf1,pilot-weapon,gun,40mm,r97,r101,cannon,rifle,render" path="weapon/72.tf1.jpg" />
+	<page number="74" book="0" tags="tf1,pilot-weapon,titan-weapon,gun,eva-8,smr,arc-cannon,railgun,ammo,shotgun,explosive,energy,sniper,render,art" path="weapon/74.tf1.jpg" />
+	<page number="76" book="0" tags="tf1,pilot-weapon,titan-weapon,gun,xo16,xotbr-16,eva-8,kraber,archer,shotgun,sniper,explosive,render" path="weapon/76.tf1.jpg" />
+	<page number="78" book="0" tags="tf1,pilot-weapon,titan-weapon,gun,railgun,sniper,avenger,cannon,wingman,explosive,data-knife,melee,helmet,render" path="weapon/78.tf1.jpg" />
+
 
 
 	<!-- The Art of Titanfall 2 -->
+	<!-- Titans -->
 	<page number="10" book="1" tags="tf2,titan,sp,bt,bt7274,render" path="titan/10.tf2.jpg" />
 	<page number="12" book="1" tags="tf2,titan,sp,bt,bt7274,render" path="titan/12.tf2.jpg" />
 	<page number="14" book="1" tags="tf2,titan,sp,bt,bt7274,concept,art" path="titan/14.tf2.jpg" />
@@ -43,6 +52,11 @@
 	<page number="32" book="1" tags="tf2,titan,mp,atlas-based,tone,concept,render" path="titan/32.tf2.jpg" />
 	<page number="34" book="1" tags="tf2,titan,mp,atlas-based,ion,art,action" path="titan/34.tf2.jpg" />
 	<page number="36" book="1" tags="tf2,titan,mp,journeyman,civillian,stryder-based,northstar,concept,art" path="titan/36.tf2.jpg" />
+	<!-- Weapons -->
+	<page number="92" book="1" tags="tf2,pilot-weapon,titan-weapon,gun,brute,leadwall,ronin,thunderbolt,shotgun,explosive,render" path="weapon/92.tf2.jpg" />
+	<page number="94" book="1" tags="tf2,pilot-weapon,gun,kraber,l-star,sniper,smg,energy,render" path="weapon/94.tf2.jpg" />
+	<page number="94" book="1" tags="tf2,pilot-weapon,gun,t-203,thermite,cannon,40mm,mastiff,shotgun,splitter-rifle,rifle,particle-accelerator,energy,render" path="weapon/94.tf2.jpg" />
+	<page number="94" book="1" tags="tf2,pilot-weapon,gun,softball,explosive,l-star,energy,xo16,rifle,r97,r201,double-take,sniper,art,render" path="weapon/94.tf2.jpg" />
 
 </pages>
 
